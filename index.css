@@ -1,6 +1,4 @@
 body {}
-p {margin-left: 5%; 
-   margin-right: 5%; 
-   margin-top: 20%;
+p {margin: 25px 50px 75px;
    color: green;
    font-size: 200%;} 
