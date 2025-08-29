@@ -20,7 +20,14 @@ var lleg;
 var rleg;
 
 var $4arms;
+var larm2;
+var rarm2;
 var larm2Shield;
 var rarm2Shield;
 var larm2Health;
 var rarm2Health;
+
+document.getElementById("headShield").value = test;
+if (headShield = 4){
+document.getElementById('headShield').innerText = "This works";
+}
