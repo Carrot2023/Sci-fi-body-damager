@@ -1,4 +1,4 @@
-var headShield;
+var headShield = document.getElementById("headShield");
 var bodyShield;
 var larmShield;
 var rarmShield;
@@ -28,7 +28,5 @@ var larm2Health;
 var rarm2Health;
 
 function headShieldValue() {
-if (document.getElementById("headShield") = 4){
-document.getElementById('headShieldL').innerText = "This works";
-  }
+document.getElementById('Test').innerText = headShield;
 }
