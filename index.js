@@ -28,7 +28,6 @@ var larm2Health;
 var rarm2Health;
 
 function headShieldValue() {
-document.getElementById("headShield").value = test;
 if (document.getElementById("headShield") = 4){
 document.getElementById('headShieldL').innerText = "This works";
   }
