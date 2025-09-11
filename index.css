@@ -5,3 +5,13 @@ body {}
   background-color: #555;
   border-radius: 50%;
 }
+.rectangleA {
+  height: 100px;
+  width: 50px;
+  background-color: #555;
+}
+.rectangleB {
+  height: 100px;
+  width: 75px;
+  background-color: #555;
+}
