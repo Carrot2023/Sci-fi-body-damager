@@ -1,6 +1,6 @@
 body {}
 .circle {
-  margin-left: 4%;
+  margin-left: 6%;
   height: 50px;
   width: 50px;
   background-color: #555;
@@ -15,8 +15,8 @@ body {}
   background-color: #555;
 }
 .rectangleB {
-  margin-left: 1%;
-  margin-right: 1%;
+  margin-left: 0.25%;
+  margin-right: 0.25%;
   float: left;
   height: 100px;
   width: 75px;
