@@ -1,5 +1,6 @@
 body {}
 .circle {
+  margin-left: 4%;
   height: 50px;
   width: 50px;
   background-color: #555;
